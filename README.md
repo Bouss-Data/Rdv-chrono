@@ -1,5 +1,5 @@
 # Rdv-chrono
-Prépa RDV via n8n &amp; IA : analyse Calendar, Gmail et LinkedIn (Apify), puis envoie le brief GPT sur WhatsApp.
+Prépa RDV via n8n &IA : analyse Calendar, Gmail et LinkedIn (Apify), puis envoie le brief GPT sur WhatsApp.
 
 
 Ce projet automatise la préparation de vos rendez-vous commerciaux grâce à l'IA et n8n.
